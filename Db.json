@@ -1,0 +1,64 @@
+{
+  "vehicles": [
+    {
+      "image": "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Toyota Corolla",
+      "price": 200000,
+      "mileage": 150000,
+      "color": "White",
+      "seats": 4,
+      "fuel": "petrol",
+      "gear": "Automatic",
+      "description": "A reliable family car",
+      "id": "1"
+    },
+    {
+      "image": "https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Toyota Corolla",
+      "price": 200000,
+      "mileage": 150000,
+      "color": "White",
+      "seats": 5,
+      "fuel": "Petrol",
+      "gear": "Automatic",
+      "description": "no 1 car",
+      "id": "2"
+    },
+    {
+      "id": "4",
+      "image": "https://images.pexels.com/photos/627678/pexels-photo-627678.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "name": "Toyota Corolla",
+      "price": 200000,
+      "mileage": 150000,
+      "color": "White",
+      "seats": 5,
+      "fuel": "Petrol",
+      "gear": "Automatic",
+      "description": "A reliable family car"
+    },
+    {
+      "id": "c801",
+      "image": "https://th.bing.com/th/id/OIP.oj-olXa-ciqjtkP76IJSIAHaEo?rs=1&pid=ImgDetMain",
+      "name": "ABCasds",
+      "price": 239000,
+      "mileage": 240,
+      "color": "blue",
+      "seats": 5,
+      "fuel": "cole",
+      "gear": "5",
+      "description": "NA"
+    },
+    {
+      "image": "https://imgd.aeplcdn.com/0x0/cw/static/landing-banners/homepage-m-2021.jpg?v=19042022",
+      "name": "Toyota Corolla 2.0",
+      "price": 122200,
+      "mileage": 132,
+      "color": "marun",
+      "seats": 3,
+      "fuel": "electric",
+      "gear": "3",
+      "description": "1no",
+      "id": "f9d7"
+    }
+  ]
+}
